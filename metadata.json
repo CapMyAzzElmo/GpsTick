@@ -1,0 +1,6 @@
+{
+  "name": "GPS JoyStick",
+  "description": "Mock location GPS controller with virtual joystick, configurable movement speeds, floating overlay window, and route simulation for mobile testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
